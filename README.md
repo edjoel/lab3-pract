@@ -1,1 +1,1 @@
-# lab3-pract //practica
+# lab3-pract //practica para lab
